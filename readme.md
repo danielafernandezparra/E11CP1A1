@@ -11,7 +11,7 @@
 - En el archivo *routes.rb*, convertir la página ***one*** en la página de inicio.
 - Agregar el CDN de *Bootstrap* al *Layout*.
 - Agregar un título *h1* con tu nombre completo a la página de inicio.
-- Ejecutar el comando *rake routes* en la terminal y obtener una captura de pantalla del resultado.
+- Ejecutar el comando *rake routes*((rails routes)) en la terminal y obtener una captura de pantalla del resultado.
 - Insertar la imagen de la captura de pantalla obtenida a la página ***two***.
 - Añadir los cambios y hacer el <u>*segundo commit*</u>.
 - Agregar el método ***three*** al controlador ***Pages***.
